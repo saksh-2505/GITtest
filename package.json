@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite" , 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saksh-2505/GITtest.git"
+  },
+  "author": "Saksham Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saksh-2505/GITtest/issues"
+  },
+  "homepage": "https://github.com/saksh-2505/GITtest#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
